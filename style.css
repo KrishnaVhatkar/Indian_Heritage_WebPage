@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    overflow: hidden;
+    background-color: rgb(255, 191, 0);
+}
+.culture{
+    
+    padding: 10px;
+    border: 2px solid gray;
+    
+}
+
+.header{
+    height: 100px;
+    width: 100vw;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.para p{
+    margin: 20px 0px;
+}
+.overview{
+    margin-top: 50px;
+}
+.overview h3{
+    text-decoration: underline;
+}
+.overview ul{
+    margin: 20px;
+    margin-left: 40px;
+}
+.overview ul li{
+    margin: 10px;
+}
+.religious-culture h2{
+    color:brown;
+    margin: 20px 0px ;
+}
+.marriage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.marriage img{
+    padding: 20px;
+}
+.festivals{
+    padding: 10px;
+    background-color:rgb(255, 191, 0) ;
+    border-bottom: 5px solid gray;
+}
+.festivals h2{
+    color: brown;
+    padding: 20px 0px;
+}
+.makar p{
+    padding: 0px 30px;
+}
+.makar{
+    padding: 30px;
+}
+.makar-img{
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    align-items: center;
+}
+.holi{
+    padding: 30px;
+}
+.holi p{
+    padding: 0px 30px;
+}
+.cuisine{
+    background-color: rgb(255, 191, 0);
+}
+.cuisine h2{
+    color: brown;
+}
+.cuisine p{
+    padding: 15px;
+}
+.cuisine-img{
+    display: flex;
+    justify-content: space-around;
+}
+.cuisine-img img{
+    height: 140px;
+    width: 200px;
+    border-radius: 12px;
+    padding: 15px;
+}
+.cuisine .img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.clothing{
+ 
+    padding-top: 30px;
+}
+.clothing h2{
+   color: brown;
+}
+.clothing p{
+    padding: 15px;
+}
+
+.clothing-img .img{
+    display: flex;
+
+    justify-content: space-around;
+}
+.clothing-img .img img{
+    padding: 10px;
+    height: 200px;
+    width: 170px;
+}
+.c-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
